@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://www.npmjs.com/package/@merch-one/api"><img src="https://img.shields.io/npm/v/@merch-one/api?color=orange&style=flat-square" alt="NPM Version"></a>
     <a href="https://www.npmjs.com/package/@merch-one/api"><img src="https://img.shields.io/npm/l/@merch-one/api?color=brightgreen&style=flat-square" alt="License"></a>
-    <a href="https://www.npmjs.com/package/@merch-one/api"><img src="https://img.shields.io/github/last-commit/merch-one/js-api?color=blue&style=flat-square" alt="GitHub last commit"></a>
+    <a href="https://www.npmjs.com/package/@merch-one/api"><img src="https://img.shields.io/github/last-commit/merch-one/js-api-sdk?color=blue&style=flat-square" alt="GitHub last commit"></a>
 </p>
 
 This package provide a set of tools that allow developers to easily integrate with MerchOne API.

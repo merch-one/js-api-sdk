@@ -29,7 +29,7 @@ export default class MerchOneApi {
     }
 
     public static getSdkVersion() {
-        return "1.0.0";
+        return "1.0.1";
     }
 
     private static validateVersion(version: string): void {

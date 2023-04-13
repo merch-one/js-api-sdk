@@ -4,7 +4,7 @@
   "homepage": "https://github.com/merch-one/js-api-sdk#readme",
   "author": "The Customization Group",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "prebuild": "rm -rf ./dist && tslint -p tsconfig.json --fix",
     "build": "tsc -p tsconfig.cjs.json && tsc -p tsconfig.esm.json",
@@ -18,7 +18,7 @@
   "files": [
     "dist/*/**",
     "LICENSE",
-    "readme.md"
+    "README.md"
   ],
   "keywords": [
     "api",
